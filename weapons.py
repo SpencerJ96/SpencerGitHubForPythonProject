@@ -1,0 +1,1 @@
+weapons = ["Axe", "Bow", "Staff"]
