@@ -9,5 +9,5 @@ print (f"Greetings {name}! Your adventure begins")
 player_class = make_choice("Select as class! Warrior, Rogue or Mage?")
 print(f"Hello {name} You selected {player_class}")
 
-print("Select a weapon! Axe, Bow, Staff")
+
 weapon_choice = make_choice("Select a weapon!: Axe, Bow, Staff")
