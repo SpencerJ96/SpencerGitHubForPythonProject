@@ -11,3 +11,4 @@ print(f"Hello {name} You selected {player_class}")
 
 
 weapon_choice = make_choice("Select a weapon!: Axe, Bow, Staff")
+print("A trapdoor opens beneath you!")
